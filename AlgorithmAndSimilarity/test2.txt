@@ -1,0 +1,6 @@
+clustering	ManhattanDistance
+100-80		20
+clustering	ManhattanDistance
+20-		60
+clustering	ManhattanDistance
+80-20		310
